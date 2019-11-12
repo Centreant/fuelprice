@@ -42,4 +42,5 @@ The fuel price was loaded in from `all_data_cleaned.csv`.
 
 ### Data
 The data has been obtained from two sources:
-1. 
+1. The NSW government's website: https://data.nsw.gov.au/data/dataset/fuel-check
+2. The NSW government's API: https://api.nsw.gov.au/fuel-price-check/apis
